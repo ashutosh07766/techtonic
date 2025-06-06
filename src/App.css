@@ -1,0 +1,15 @@
+
+/* ...existing code... */
+@media (max-width: 768px) {
+  .lookbook-container {
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+  }
+  .media-viewer {
+    width: 100vw;
+    height: 100vw;
+    max-height: 100vh;
+  }
+}
+/* ...existing code... */
